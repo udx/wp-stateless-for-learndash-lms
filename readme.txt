@@ -1,11 +1,11 @@
-=== WP-Stateless - LearnDash® LMS Plugin Addon ===
-Contributors: usability_dynamics, andypotanin, ideric, maxim.peshkov, planvova, obolgun
+=== WP-Stateless for LearnDash® LMS ===
+Contributors: usability_dynamics, andypotanin, ideric, planvova, obolgun
 Donate link: https://udx.io
-Tags: learndash, learn dash, lms, google, google cloud, google cloud storage, cdn, uploads, media, stateless, backup
+Tags: learndash, learndash addon extension, google cloud storage, stateless, wp-stateless
 License: GPLv2 or later
-Requires PHP: 8.0
+Requires PHP: 8.1
 Requires at least: 5.0
-Tested up to: 6.4.1
+Tested up to: 6.9
 Stable tag: 0.0.1
 
 Provides compatibility between the LearnDash® LMS Plugin and the WP-Stateless plugins.
@@ -24,13 +24,13 @@ Provides compatibility between the [LearnDash® LMS Plugin](https://www.learndas
 
 = Support, Feedback, & Contribute =
 
-We welcome community involvement via the [GitHub repository](https://github.com/udx/wp-stateless-learndash-addon).
+We welcome community involvement via the [GitHub repository](https://github.com/udx/wp-stateless-for-learndash-lms).
 
 == Frequently Asked Questions ==
 
 = Where can I submit feature requests or bug reports? =
 
-We encourage community feedback and discussion through issues on the [GitHub repository](https://github.com/udx/wp-stateless-learndash-addon/issues).
+We encourage community feedback and discussion through issues on the [GitHub repository](https://github.com/udx/wp-stateless-for-learndash-lms/issues).
 
 = Can I test new features before they are released? =
 

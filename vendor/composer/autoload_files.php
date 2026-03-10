@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    '087754b5b69589e6512ddc70bb483fe0' => $baseDir . '/class-learndash.php',
+    'd441e671cf10761fec2f6107b7bfb172' => $baseDir . '/class-learndash.php',
 );
