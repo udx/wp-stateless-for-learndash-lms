@@ -3,7 +3,7 @@
 /**
  * Plugin Name: WP-Stateless for LearnDash LMS
  * Plugin URI: https://stateless.udx.io/addons/learndash/
- * Description: Provides compatibility between the LearnDash® LMS Plugin and the WP-Stateless plugins.
+ * Description: Provides compatibility between the LearnDash LMS Plugin and the WP-Stateless plugins.
  * Author: UDX
  * Version: 0.0.1
  * Text Domain: wp-stateless-for-learndash-lms

@@ -1,4 +1,4 @@
-=== WP-Stateless for LearnDash® LMS ===
+=== WP-Stateless for LearnDash LMS ===
 Contributors: usability_dynamics, andypotanin, ideric, planvova, obolgun
 Donate link: https://udx.io
 Tags: learndash, learndash addon extension, google cloud storage, stateless, wp-stateless
@@ -8,11 +8,11 @@ Requires at least: 5.0
 Tested up to: 6.9
 Stable tag: 0.0.1
 
-Provides compatibility between the LearnDash® LMS Plugin and the WP-Stateless plugins.
+Provides compatibility between the LearnDash LMS Plugin and the WP-Stateless plugins.
 
 == Description ==
 
-Provides compatibility between the [LearnDash® LMS Plugin](https://www.learndash.com/) and the [WP-Stateless](https://wordpress.org/plugins/wp-stateless/) plugins.
+Provides compatibility between the [LearnDash LMS Plugin](https://www.learndash.com/) and the [WP-Stateless](https://wordpress.org/plugins/wp-stateless/) plugins.
 
 = Features =
 

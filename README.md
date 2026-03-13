@@ -1,6 +1,6 @@
-# WP-Stateless for LearnDash® LMS
+# WP-Stateless for LearnDash LMS
 
-Provides compatibility between the [LearnDash® LMS Plugin](https://www.learndash.com/) and the [WP-Stateless](https://wordpress.org/plugins/wp-stateless/) plugins.
+Provides compatibility between the [LearnDash LMS Plugin](https://www.learndash.com/) and the [WP-Stateless](https://wordpress.org/plugins/wp-stateless/) plugins.
 
 ### Features
 

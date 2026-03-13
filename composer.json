@@ -1,6 +1,6 @@
 {
   "name": "udx/wp-stateless-for-learndash-lms",
-  "description": "Ensures compatibility with LearnDash® LMS Plugin.",
+  "description": "Ensures compatibility with LearnDash LMS Plugin.",
   "type": "wordpress-plugin",
   "license": "GPLv2 or later",
   "authors": [
