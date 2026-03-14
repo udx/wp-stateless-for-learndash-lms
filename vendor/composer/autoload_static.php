@@ -7,7 +7,7 @@ namespace Composer\Autoload;
 class ComposerStaticInit6954343f0577c74a6085fe2a69301e0b
 {
     public static $files = array (
-        '087754b5b69589e6512ddc70bb483fe0' => __DIR__ . '/../..' . '/class-learndash.php',
+        'd441e671cf10761fec2f6107b7bfb172' => __DIR__ . '/../..' . '/class-learndash.php',
     );
 
     public static $classMap = array (

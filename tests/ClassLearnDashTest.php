@@ -1,6 +1,6 @@
 <?php
 
-namespace WPSL\LearnDash;
+namespace SLCA\LearnDash;
 
 use PHPUnit\Framework\TestCase;
 use Mockery\Adapter\Phpunit\MockeryPHPUnitIntegration;
