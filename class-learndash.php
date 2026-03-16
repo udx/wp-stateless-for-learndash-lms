@@ -1,12 +1,14 @@
 <?php
 
-namespace WPSL\LearnDash;
+namespace SLCA\LearnDash;
 
 use wpCloud\StatelessMedia\Compatibility;
 use wpCloud\StatelessMedia\Utility;
 
+defined( 'ABSPATH' ) || exit;
+
 /**
- * @todo make testable and test
+ * Class LearnDash
  */
 class LearnDash extends Compatibility {
   protected $id = 'sfwd-lms';
@@ -44,6 +46,7 @@ class LearnDash extends Compatibility {
    * @return bool
    */
   private function hook_from_learndash() {
+    // phpcs:ignore WordPress.PHP.DevelopmentFunctions.error_log_debug_backtrace
     $call_stack = debug_backtrace();
     if (
       !empty($call_stack[6]['function']) &&

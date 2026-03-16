@@ -1,6 +1,6 @@
-# WP-Stateless - LearnDash® LMS Plugin Addon
+# WP-Stateless for LearnDash LMS
 
-Provides compatibility between the [LearnDash® LMS Plugin](https://www.learndash.com/) and the [WP-Stateless](https://wordpress.org/plugins/wp-stateless/) plugins.
+Provides compatibility between the [LearnDash LMS Plugin](https://www.learndash.com/) and the [WP-Stateless](https://wordpress.org/plugins/wp-stateless/) plugins.
 
 ### Features
 
@@ -12,14 +12,14 @@ Provides compatibility between the [LearnDash® LMS Plugin](https://www.learndas
 
 ### Support, Feedback, & Contribute
 
-We welcome community involvement via the [GitHub repository](https://github.com/udx/wp-stateless-learndash-addon).
+We welcome community involvement via the [GitHub repository](https://github.com/udx/wp-stateless-for-learndash-lms).
 
 ### Frequently Asked Questions
 
 <details>
 <summary>Where can I submit feature requests or bug reports?</summary>
 
-We encourage community feedback and discussion through issues on the [GitHub repository](https://github.com/udx/wp-stateless-learndash-addon/issues).
+We encourage community feedback and discussion through issues on the [GitHub repository](https://github.com/udx/wp-stateless-for-learndash-lms/issues).
 </details>
 
 <details>
